@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-resend-strapi",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Strapi Resend provider for Strapi",
   "main": "index.js",
   "scripts": {
