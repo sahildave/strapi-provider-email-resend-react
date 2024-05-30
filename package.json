@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-email-resend-react",
+  "name": "strapi-provider-email-resend-strapi",
   "version": "0.1.0",
-  "description": "Strapi Resend provider with React",
+  "description": "Strapi Resend provider for Strapi",
   "main": "index.js",
   "scripts": {},
   "dependencies": {

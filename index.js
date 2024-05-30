@@ -3,8 +3,8 @@
 const { Resend } = require("resend")
 
 module.exports = {
-  provider: "strapi-provider-email-resend-react",
-  name: "Resend React",
+  provider: "strapi-provider-email-resend-strapi",
+  name: "Resend Strapi",
 
   init: function (providerOptions, settings) {
     const resend = new Resend(providerOptions.apiKey)
