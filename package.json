@@ -1,0 +1,13 @@
+{
+  "name": "strapi-provider-email-resend-react",
+  "version": "0.1.0",
+  "description": "Strapi Resend provider with React",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@react-email/render": "^0.0.14",
+    "resend": "^3.2.0"
+  },
+  "author": "Sahil Dave",
+  "license": "MIT"
+}
